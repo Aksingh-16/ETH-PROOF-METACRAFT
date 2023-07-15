@@ -1,6 +1,7 @@
 
-# Metacrafter project
+# HELLO WORLD
 
+This repository contains the source code for the `MyToken` smart contract
 
 This Solidity program is a simple "Hello World" program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
 
@@ -38,7 +39,10 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 Metacrafter Chris  
 [@metacraftersio](https://twitter.com/metacraftersio)
 
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/Aksingh-16/ETH-PROOF-METACRAFT/blob/main/LICENCE) file for details.
+
+## Credits
+
+This project is a solution to the project task provided by MetaCrafters.
