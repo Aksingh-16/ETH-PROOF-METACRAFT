@@ -49,7 +49,7 @@ _address: The address from which the tokens will be burned.
 _value: The number of tokens to burn from the address balance.
 The function checks if the balance of the _address is greater than or equal to the _value. If the condition is met, it deducts the _value from the total supply and reduces the _address balance accordingly. If the condition is not met, the function will revert with an error message indicating that burning more tokens than the available balance is not allowed.
 
-```
+
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile HelloWorld.sol" button.
 
